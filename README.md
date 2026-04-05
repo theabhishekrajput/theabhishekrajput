@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://abhishekrajput.com" target="_blank">
+  <a href="https://abhishekrajput.com" target="_parent">
     <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/theabhishekrajput" target="_blank">
+  <a href="https://linkedin.com/in/theabhishekrajput" target="_parent">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
