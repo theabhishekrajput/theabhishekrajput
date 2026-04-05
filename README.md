@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">🚀 AI Engineer | GenAI | Data Systems | Building Intelligent Products</h3>
+<h3 align="center">AI Engineer | GenAI | Data Systems | Building Intelligent Products</h3>
 
 <!-- TYPING ANIMATION -->
 
