@@ -23,7 +23,7 @@
 ## 🌐 My Website
 
 <p align="left">
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://abhishekrajput.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -33,7 +33,7 @@
 ## ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,aws,docker,kubernetes,azure" />
+  <img src="https://skillicons.dev/icons?i=python,ai,java,docker,kubernetes,aws" />
 </p>
 
 <p align="left">
