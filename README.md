@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 * 🔭 Working on **GenAI, LLM apps & telemetry pipelines**
-* 🤖 Exploring **Agentic AI & on-prem AI infra**
+* 🤖 Exploring **Agentic AI & on-prem AI infrastructure**
 * 📊 Focused on **AI + Data Engineering + Scalable Systems**
 * 🏸 Fitness + Badminton enthusiast
 
@@ -74,6 +74,62 @@
 
 * Reduced registration time significantly
 * SSE-based high-performance collectors
+
+---
+
+## 🏗️ System Architecture
+
+### 🔹 LLM Chatbot (RAG Architecture)
+
+```mermaid
+flowchart LR
+    A[User Query] --> B[Frontend (Streamlit)]
+    B --> C[Backend API]
+    C --> D[Embedding Model]
+    D --> E[Vector DB (Chroma)]
+    E --> F[Retriever]
+    F --> G[LLM]
+    G --> H[Response]
+    H --> B
+```
+
+---
+
+### 🔹 Finance Analyzer (AI Pipeline)
+
+```mermaid
+flowchart TD
+    A[Bank Statement Upload] --> B[Preprocessing]
+    B --> C[LLM Categorization]
+    C --> D[Expense Classification]
+    D --> E[Analytics Engine]
+    E --> F[Insights Dashboard]
+```
+
+---
+
+### 🔹 Pathcraft – AI Travel Planner
+
+```mermaid
+flowchart LR
+    A[User Preferences] --> B[Planner Engine]
+    B --> C[LLM Recommendation]
+    C --> D[Local Storage]
+    D --> E[Optimized Itinerary]
+    E --> F[User Interface]
+```
+
+---
+
+### 🔹 Telemetry Pipeline (Data Engineering)
+
+```mermaid
+flowchart LR
+    A[Servers / iDRAC] --> B[SSE Collector]
+    B --> C[Processing Layer]
+    C --> D[Prometheus]
+    D --> E[Grafana Dashboard]
+```
 
 ---
 
