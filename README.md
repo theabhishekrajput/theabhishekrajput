@@ -33,7 +33,7 @@
 ## ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ai,fastapi,docker,kubernetes,cloud,git,grafana" />
+  <img src="https://skillicons.dev/icons?i=python,ai,fastapi,docker,kubernetes,git,grafana" />
 </p>
 
 <p align="left">
