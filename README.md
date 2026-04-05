@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://abhishekrajput.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/theabhishekrajput" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
