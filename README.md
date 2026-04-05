@@ -9,6 +9,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+GenAI+Applications;LLM+%7C+RAG+%7C+Agentic+AI;AI+%2B+Systems+Engineer;Always+learning+new+things&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+  <a href="https://abhishekrajput.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/theabhishekrajput" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -20,24 +29,13 @@
 
 ---
 
-## 🌐 My Website
-
-<p align="left">
-  <a href="https://abhishekrajput.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## ⚙️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,mysql,postgres,mongodb,git,prometheus,grafana" />
 </p>
 
-<p align="left">
-  
+<p align="center">
   <img src="https://img.shields.io/badge/Agentic%20AI-18A497?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-blue?style=for-the-badge" />
@@ -76,16 +74,6 @@
 
 * Reduced registration time significantly
 * SSE-based high-performance collectors
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/theabhishekrajput" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
 
 ---
 
