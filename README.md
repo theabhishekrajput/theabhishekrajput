@@ -33,7 +33,7 @@
 ## ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ai,java,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=python,ai,fastapi,docker,kubernetes,cloud,git,grafana" />
 </p>
 
 <p align="left">
@@ -80,7 +80,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/theabhishekrajput" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
