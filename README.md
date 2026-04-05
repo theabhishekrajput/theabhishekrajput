@@ -38,7 +38,7 @@
 
 <p align="left">
   
-  <img src="https://img.shields.io/badge/Agentic%20AI-#18A497?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-18A497?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-green?style=for-the-badge" />
